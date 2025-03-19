@@ -1,30 +1,42 @@
 # CALIPER
-Critical thinking, analysis, logic, integrative thinking, problem solving, ethics, and reasoning (CALIPER)
 
-## Critical Thinking
+CALIPER (Critical thinking, Analysis, Logic, Integrative thinking, Problem solving, Ethics, and Reasoning) is a comprehensive assessment framework designed to evaluate the reasoning and cognitive skills of both humans and large language models (LLMs). This repository contains the materials and guidelines to administer the CALIPER test, enabling users to gain insights into critical thinking abilities and to benchmark LLM performance.
 
-Critical thinking is the ability to analyze, evaluate, and synthesize information in a logical and systematic way. It involves questioning assumptions, recognizing biases, and examining evidence to form reasoned conclusions. Critical thinkers are able to assess the validity of arguments, identify logical fallacies, and make decisions based on rational evaluation rather than emotional reactions or unfounded beliefs. Essentially, it is a disciplined approach to thinking that helps individuals make well-informed, objective judgments.
+---
 
-## Analysis
+## Overview
 
-Analysis is the process of breaking down complex information, ideas, or problems into smaller, more manageable parts in order to understand them better. It involves examining the components, structure, relationships, and patterns within the subject being studied. Analysis often requires identifying key elements, evaluating their significance, and drawing conclusions based on evidence. It is a critical skill in many fields, including science, literature, business, and problem-solving, as it helps to uncover insights and make informed decisions.
+The CALIPER assessment is centered on evaluating seven key dimensions:
 
-## Logic
+- **Critical Thinking:**  
+  Analyze, evaluate, and synthesize information in a logical and systematic way. This involves questioning assumptions, recognizing biases, and evaluating evidence to form well-informed, objective conclusions.
 
-Logic is the study of principles and methods used to distinguish correct reasoning from incorrect reasoning. It involves the systematic analysis of arguments, where the goal is to determine whether conclusions logically follow from premises. Logic helps to ensure that reasoning is consistent, valid, and sound. It uses formal rules and structures, such as propositions, syllogisms, and deductive or inductive reasoning, to evaluate whether an argument is well-formed and whether its conclusions are reliable based on the given premises. Logic is essential in many disciplines, including mathematics, philosophy, computer science, and everyday decision-making.
+- **Analysis:**  
+  Break down complex information into manageable components. Through detailed examination of structure, relationships, and patterns, analysis helps in identifying key elements and drawing informed conclusions.
 
-## Integrative Thinking
+- **Logic:**  
+  Study and apply principles that distinguish correct reasoning from incorrect reasoning. Logic involves assessing whether conclusions follow necessarily from given premises using structured methods like deductive or inductive reasoning.
 
-Integrative thinking is the ability to combine and synthesize different perspectives, ideas, and solutions to address complex problems. It involves balancing seemingly opposing or conflicting viewpoints and finding ways to integrate them into a cohesive and innovative approach. Rather than choosing one solution over another, integrative thinking seeks to find a more holistic answer by understanding the strengths and weaknesses of various ideas and creatively combining them to form a better, more comprehensive solution. This type of thinking fosters adaptability, creativity, and the ability to see beyond binary choices, often leading to breakthroughs and novel solutions.
+- **Integrative Thinking:**  
+  Combine and synthesize diverse perspectives and ideas to address complex problems. This skill is about balancing conflicting viewpoints to develop a cohesive, innovative approach that transcends binary choices.
 
-## Problem Solving
+- **Problem Solving:**  
+  Identify challenges, analyze obstacles, and develop effective solutions. Problem solving is a structured process involving problem definition, information gathering, ideation, evaluation, and implementation of the best solution.
 
-Problem solving is the process of identifying, analyzing, and finding solutions to challenges or obstacles. It involves several steps, including defining the problem, gathering relevant information, generating potential solutions, evaluating those solutions, and implementing the best one. Effective problem solving often requires creativity, critical thinking, and the ability to adapt to new information or changing circumstances. It is a key skill in many areas of life, from everyday decisions to professional tasks, and helps individuals or groups overcome difficulties and achieve desired outcomes.
+- **Ethics:**  
+  Explore moral principles and values that guide behavior. Ethics examines what is considered right and wrong, and informs decisions that align with societal and individual values such as fairness, justice, and responsibility.
 
-## Ethics
+- **Reasoning:**  
+  Engage in systematic thought processes to form conclusions, make decisions, and solve problems. Reasoning connects ideas and facts through valid arguments, employing both deductive and inductive strategies to justify conclusions.
 
-Ethics is the branch of philosophy that deals with questions about what is morally right and wrong, good and bad, just and unjust. It involves the principles and rules that guide human behavior, determining how individuals and societies should act based on values such as fairness, justice, honesty, and responsibility. Ethics explores concepts like duty, rights, virtues, and the consequences of actions, helping people make decisions that align with moral standards and contribute to the well-being of others. It is applied in various fields, including law, business, medicine, and personal conduct.
+---
 
-## Reasoning
+## Purpose
 
-Reasoning is the mental process of thinking logically and systematically to form conclusions, make decisions, or solve problems. It involves connecting ideas, facts, or principles through valid arguments or explanations. Reasoning can be either deductive, where conclusions follow necessarily from the given premises, or inductive, where conclusions are drawn based on patterns or observations. It is a fundamental cognitive skill that allows individuals to evaluate situations, draw inferences, and justify their beliefs or actions in a coherent and logical manner. Reasoning helps in critical thinking, decision-making, and forming sound judgments.
+CALIPER is designed with two primary objectives:
+
+1. **Human Assessment:**  
+   To serve as a tool for self-assessment and educational evaluation, enabling individuals to understand and improve their cognitive and reasoning skills.
+
+2. **LLM Evaluation:**  
+   To provide a standardized test framework for benchmarking the performance of language models. This can be particularly useful for researchers and developers seeking to assess and enhance the reasoning capabilities of AI systems.
