@@ -45,3 +45,28 @@ CALIPER is designed with two primary objectives:
 
 **Work in Progress:**  
 At this stage, the repository is dedicated to gathering all the conceptual pieces, research, and ideas needed to build the CALIPER assessment framework. There is no executable code available yet. As the project evolves, executable components, scripts, and evaluation tools will be added.
+
+## Contributing
+
+We welcome contributions from educators, researchers, and developers interested in shaping the CALIPER framework. If you’d like to contribute:
+
+1. Fork the repository.
+2. Add your ideas or improvements.
+3. Open a pull request with a detailed description of your changes.
+4. Engage in discussions to refine the assessment framework.
+
+---
+
+## License
+
+CALIPER is released under the [MIT License](LICENSE).
+
+---
+
+## Contact
+
+For questions, suggestions, or support, please open an issue in this repository or contact the maintainers at [joetorreggiani@gmail.com](mailto:joetorreggiani@gmail.com).
+
+---
+
+*CALIPER is an evolving project. Contributions and ideas to further refine the assessment criteria and expand its application for both human and AI evaluations are highly encouraged.*
