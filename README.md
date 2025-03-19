@@ -1,12 +1,10 @@
-# CALIPER
-
-CALIPER (Critical thinking, Analysis, Logic, Integrative thinking, Problem solving, Ethics, and Reasoning) is a comprehensive assessment framework designed to evaluate the reasoning and cognitive skills of both humans and large language models (LLMs). This repository contains the materials and guidelines to administer the CALIPER test, enabling users to gain insights into critical thinking abilities and to benchmark LLM performance.
+CALIPER (Critical thinking, Analysis, Logic, Integrative thinking, Problem solving, Ethics, and Reasoning) is a conceptual assessment framework designed to evaluate the reasoning and cognitive skills of both humans and large language models (LLMs). This repository is currently in the early stages of development—we are gathering and organizing various components, ideas, and research to form a comprehensive assessment tool.
 
 ---
 
 ## Overview
 
-The CALIPER assessment is centered on evaluating seven key dimensions:
+The CALIPER framework is centered on evaluating seven key dimensions:
 
 - **Critical Thinking:**  
   Analyze, evaluate, and synthesize information in a logical and systematic way. This involves questioning assumptions, recognizing biases, and evaluating evidence to form well-informed, objective conclusions.
@@ -39,4 +37,11 @@ CALIPER is designed with two primary objectives:
    To serve as a tool for self-assessment and educational evaluation, enabling individuals to understand and improve their cognitive and reasoning skills.
 
 2. **LLM Evaluation:**  
-   To provide a standardized test framework for benchmarking the performance of language models. This can be particularly useful for researchers and developers seeking to assess and enhance the reasoning capabilities of AI systems.
+   To provide a standardized framework for benchmarking the performance of language models. This will be particularly useful for researchers and developers seeking to assess and enhance the reasoning capabilities of AI systems.
+
+---
+
+## Current Status
+
+**Work in Progress:**  
+At this stage, the repository is dedicated to gathering all the conceptual pieces, research, and ideas needed to build the CALIPER assessment framework. There is no executable code available yet. As the project evolves, executable components, scripts, and evaluation tools will be added.
