@@ -46,6 +46,10 @@ CALIPER is designed with two primary objectives:
 **Work in Progress:**  
 At this stage, the repository is dedicated to gathering all the conceptual pieces, research, and ideas needed to build the CALIPER assessment framework. There is no executable code available yet. As the project evolves, executable components, scripts, and evaluation tools will be added.
 
+## Resources
+
+See the [RESOURCES.md](RESOURCES.md) file for a curated list of articles, papers, and tools related to critical thinking, analysis, logic, integrative thinking, problem solving, ethics, and reasoning.
+
 ## Contributing
 
 We welcome contributions from educators, researchers, and developers interested in shaping the CALIPER framework. If you’d like to contribute:
